@@ -1,0 +1,19 @@
+{
+  "name": "mongodb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js | pino-pretty"
+  },
+  "author": "Vitor Batista da Conceição Santos",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mongodb": "^6.8.0",
+    "nodemon": "^3.1.4",
+    "pino": "^9.3.2",
+    "pino-pretty": "^11.2.2"
+  }
+}
