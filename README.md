@@ -18,7 +18,7 @@ Installation
 
 Clone the repository:
 ```
-git clone https://github.com/yourusername/mongo-db-backup-script-nodejs.git
+git clone https://github.com/vitorsantosb/mongo-db-backup-script-nodejs.git
 cd mongo-db-backup-script-nodejs
 ```
 
